@@ -58,12 +58,30 @@ body {
 }
 
 .heading__image-text {
-  /*  */
-}
-.body__section {
-  /*  */
+  margin: 15px 0 5px 0;
 }
 
+h3{
+  text-align: center;
+}
+
+ul{
+  max-width: 550px;
+  margin: 0 auto 50px auto;
+  text-align: left;
+  line-height: 1.6;
+
+}
+li {
+  margin: 16px 0;
+}
+
+
 .footer__section {
-  /*  */
+  text-align: center;
+  font-style: italic;
+}
+.footer-p{
+  font-weight:bold ;
+  font-style: normal;
 }
